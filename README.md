@@ -31,4 +31,4 @@ IBM Data Science Professional · DeepLearning.AI Retrieval Augmented Generation 
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/emmanuel-nduka-2583b3236/) · ndukanice@gmail.com
+[LinkedIn](https://www.linkedin.com/in/emmanuel-nduka-2583b3236/)
