@@ -5,7 +5,7 @@
 I'm an **AI Engineer and Full-Stack Developer** based in Lagos, Nigeria. I build practical AI and data tools, from LLM apps with retrieval-augmented generation to machine-learning dashboards, and ship them as working web apps.
 
 - 🎓 Studying **Software Development** at Brigham Young University-Idaho and trained in AI and data science at **Pioneer Artificial Intelligence Academy**
-- 💼 8+ years in customer support, sales and business development before moving into tech, so I build with the end user in mind
+- 💼 5+ years in customer support, sales and business development before moving into tech, so I build with the end user in mind
 - 🌍 **Open to remote** AI Engineer, Machine Learning Engineer and Data Scientist roles
 
 ## 🚀 Featured projects
