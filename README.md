@@ -1,6 +1,6 @@
 ![Emmanuel Nduka Eze – AI Engineer & Full-Stack Developer](banner.png)
 
-# Hi, I'm Emmanuel 👋
+# Hi, I'm Emmanuel
 
 I'm an **AI Engineer and Full-Stack Developer** based in Lagos, Nigeria. I build practical AI and data tools, from LLM apps with retrieval-augmented generation to machine-learning dashboards, and ship them as working web apps.
 
@@ -8,7 +8,7 @@ I'm an **AI Engineer and Full-Stack Developer** based in Lagos, Nigeria. I build
 - 5+ years in customer support, sales and business development before moving into tech, so I build with the end user in mind
 - **Open to remote** AI Engineer, Machine Learning Engineer and Data Scientist roles
 
-## 🚀 Featured projects
+## Featured projects
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
@@ -18,17 +18,17 @@ I'm an **AI Engineer and Full-Stack Developer** based in Lagos, Nigeria. I build
 | **US Weather + Energy Dashboard** | Data pipeline combining NOAA weather and EIA energy data, with an interactive analysis dashboard | Python, pandas, Plotly, Streamlit | [Live](https://mydata-scienceproject-julu-2025git-nzzw8j8znxvtkrmdzlqsia.streamlit.app/) · [Code](https://github.com/ndukanice/My_Data-_Science_Project-Julu-2025) |
 | **Feast Together** | Plans meals for group gatherings around everyone's dietary needs, with recipe search and shopping lists | JavaScript, HTML, CSS, Spoonacular API | [Live](https://ndukanice.github.io/WDD330-Feast-Together/) · [Code](https://github.com/ndukanice/WDD330-Feast-Together) |
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Languages:** Python · JavaScript · TypeScript · SQL · C#  
 **AI & data:** LLM APIs · RAG · scikit-learn · XGBoost · pandas · Plotly · Streamlit  
 **Web:** FastAPI · Flask · Node.js · Express · React · MongoDB · REST APIs  
 **Tools:** Git · GitHub · Vercel · Render · AWS fundamentals
 
-## 📜 Certifications
+## Certifications
 
 IBM Data Science Professional · DeepLearning.AI Retrieval Augmented Generation · DataCamp Associate AI Engineer for Developers · Google IT Automation with Python
 
-## 📫 Connect
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/emmanuel-nduka-2583b3236/)
